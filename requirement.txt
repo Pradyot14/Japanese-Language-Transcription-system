@@ -1,0 +1,5 @@
+streamlit
+sounddevice
+wave
+whisper
+os

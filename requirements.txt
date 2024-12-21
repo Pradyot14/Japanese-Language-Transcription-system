@@ -1,6 +1,6 @@
 streamlit==1.27.2
 sounddevice==0.4.6
-numpy==1.24.0
+numpy==1.26.0
 wave
 openai-whisper
 torch

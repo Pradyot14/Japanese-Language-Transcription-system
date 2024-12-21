@@ -1,6 +1,0 @@
-streamlit
-numpy
-sounddevice
-wave
-whisper
-os

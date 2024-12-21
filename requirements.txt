@@ -1,6 +1,6 @@
 streamlit>=1.30.0
 sounddevice>=0.5.1
-pyaudio>=19.7.0
+pyaudio<=0.2.14
 numpy>=1.26.0
 wave>=0.0.2
 whisper>=1.1.10

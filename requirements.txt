@@ -1,5 +1,7 @@
 streamlit
 sounddevice
+sounddevice
+pyaudio
 numpy
 wave
 whisper

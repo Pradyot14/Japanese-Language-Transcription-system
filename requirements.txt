@@ -1,8 +1,8 @@
-streamlit==1.27.2
-sounddevice==0.4.6
-numpy==1.26.0
-wave
-openai-whisper
-torch
-torchaudio
-ffmpeg
+streamlit>=1.30.0
+sounddevice>=0.5.1
+pyaudio>=0.2.14
+numpy>=1.26.0
+wave>=0.0.2
+whisper>=1.1.10
+setuptools>=65.0.0
+wheel

@@ -1,7 +1,8 @@
-streamlit
-sounddevice
-pyaudio
-numpy
+streamlit==1.27.2
+sounddevice==0.4.6
+numpy==1.24.0
 wave
-whisper
-os
+openai-whisper
+torch
+torchaudio
+ffmpeg
